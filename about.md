@@ -8,9 +8,19 @@ title: Über Bungalow Attraction
     Über uns
   </h1>
   <div class="text">
-    Bungalow Attraction ist ein Team aus zwei Moderatoren. Wir sind beide total musikbegeistert und freuen uns, euch auch daran Teil haben zu lassen.
+   <p>
+   Bungalow Attraction ist ein Team aus zwei Moderatoren. Wir sind beide total musikbegeistert und freuen uns, euch auch daran Teil haben zu lassen.
+</p>
+<p>
+Aktuell wird unsere Show auf Tide, dem Communityradio aus Hamburg ausgestrahlt. Mehr Informationen zu unserer Sendung findest du dort.
+<!-- Link zu tiede einbauen  -->
+</p>
 
-  </div>
+
+<img src="{{ '/assets/img/tiede-logo.jpg' | prepend: site.baseurl }}" alt="" style="width: 30%;">
+
+
+</div>
 
 
 </div>
