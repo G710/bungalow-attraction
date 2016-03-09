@@ -2,7 +2,7 @@ title: Bungalow Attraction On Tide 96.0
 description: Musik, neu erfunden
 
 url: http://bungalow-attraction.de
-baseurl: "bungalow-attraction/"
+baseurl: "/bungalow-attraction"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
