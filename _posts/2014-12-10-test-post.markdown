@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Wir sind gelandet!"
+title:  "Wir sind live!"
 date:   2016-03-09
 ---
 
-<p class="intro"><span class="dropcap">M</span>oin, moin! </p>
+<p class="intro"><span class="dropcap">M</span>oin, moin! Ihr sucht nach neuen Liedern, die gute Laune verbreiten? Dann seid ihr hier genau richtig! </p>
 
 Das lange Warten ist vorbei. Ab jetzt kommt regelmäßig Bungalow Attraction auf Tide 96.0. Neue Musik, neue Künstler, neue Genres. Wir stellen eure Welt auf den Kopf, indem wir Musik spielen, die ihr noch nie im Radio gehört habt.
 
-Bleibt auf dem laufenden!
+Bei uns dreht sich alles um die Community. Auf unserer Webseite könnt ihr uns eure neuen Liebligskünstler sagen und die neuesten Informationen zu unerer Sendung erhalten.
+
+Wir freuen uns auf euch!
