@@ -14,15 +14,15 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
+ - title: Über uns
    url: /about
- - title: Contact
+ - title: Kontakt
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: G710
+   twitter:
+   facebook:
+   email:
 
 google_analytics: ""
